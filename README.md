@@ -77,7 +77,7 @@ Make sure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ecommerce-listing
+   cd plantsecommercepage
    ```
 3. Install the dependencies:
    ```bash
