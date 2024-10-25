@@ -73,7 +73,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-listing.git
+   git clone https://github.com/JaiKumar1003/reactJS-plants-E-Commerce-Website.git
    ```
 2. Navigate to the project directory:
    ```bash
