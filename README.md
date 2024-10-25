@@ -100,9 +100,3 @@ The app will be available at `http://localhost:3000`.
 
 ## Optional - Live Deployment
 This project has been deployed to (https://react-js-plants-e-commerce-website.vercel.app/).
-
-## License
-This project is licensed under the MIT License.
-```
-
-Feel free to modify any part as needed!
